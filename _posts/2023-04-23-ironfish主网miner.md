@@ -16,6 +16,7 @@ tags: web3
 
 ## 流量转发服务配置
 > 用于不能连接到矿池的国内机器转发
+
 ```shell
 # redir安装
 apt-get update -y
@@ -39,6 +40,7 @@ telnet 转发服务ip 1145
 ## GPU服务器配置
 > 参考配置https://ironfish.herominers.com/#how-to-mine-ironfish-iron
 > bzminer仓库 https://github.com/bzminer/bzminer/releases
+
 ```shell
 1、显卡驱动安装（自行安装）
 
