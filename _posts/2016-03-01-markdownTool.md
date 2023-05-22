@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 文档支持的Markdown语法
-date: 2016-11-20 
+date: 2023-3-01 
 tags: markdown    
 ---
 
@@ -41,9 +41,7 @@ H6 :###### Header 6
 
 ### 插入一张图片
 
-打赏一个吧
-
-![](/images/payimg/weipayimg.jpg)
+![](/images/avatar.jpg)
 
 css 的大部分语法同样可以在 markdown 上使用，但不同的渲染器渲染出来的 markdown 内容样式也不一样，下面这些链接里面有 markdown 基本语法，你也可以在下面几个平台上尝试着写一些。
 
